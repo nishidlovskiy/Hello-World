@@ -1,2 +1,2 @@
 # Hello-World
-My first thing i do right
+My first thing i did right
